@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
+![Image](https://github.com/user-attachments/assets/bf3d786e-374b-4e74-8f77-997df194224c)
 <h3 align="center">A passionate Full Stack Developer, Ethical Hacker, and Game Developer from India</h3>
 
 ### 🧠 About Me
@@ -48,3 +48,4 @@ This repository is **NOT open-source**.
 All rights reserved © 2025 **Arun K Biju**.
 
 ---
+![Image](https://github.com/user-attachments/assets/d5dfba75-b4dc-431d-8903-d86b3946cfee)
