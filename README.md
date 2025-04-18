@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/arun-k-biju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-k-biju" height="30" width="40" /></a>
 <a href="https://codesandbox.com/arunkbiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arunkbiju" height="30" width="40" /></a>
 <a href="https://instagram.com/arun._.chronicles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arun._.chronicles" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arunkbijuofficial@gmail.com&su=Let's%20Chat&body=Hi,%20I%20would%20love%20to%20connect%20with%20you.%20Looking%20forward%20to%20your%20response." target="blank"><img align="center" src="![Image](https://github.com/user-attachments/assets/1e88331d-3abf-4fee-9acf-22f68a949c98)" alt="arun-k-biju" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arunkbijuofficial@gmail.com&su=Let's%20Chat&body=Hi,%20I%20would%20love%20to%20connect%20with%20you.%20Looking%20forward%20to%20your%20response." target="blank"><img align="center" src="https://github.com/user-attachments/assets/1e88331d-3abf-4fee-9acf-22f68a949c98" alt="arun-k-biju" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
