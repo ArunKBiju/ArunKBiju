@@ -39,6 +39,14 @@
 
 ![Arun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ArunKBiju)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunkbiju/arunkbiju/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunkbiju/arunkbiju/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arunkbiju/arunkbiju/output/github-snake.svg" />
+</picture>
+
+
 ### ❌ License & Usage Notice
 
 This repository is **NOT open-source**.
