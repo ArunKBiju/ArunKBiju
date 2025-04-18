@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **Arun**</h1>
+<h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate Full Stack Developer, Ethical Hacker, and Game Developer from India</h3>
 
 ### 🧠 About Me
@@ -6,8 +6,8 @@
 - 💻 I'm a final-year Engineering student deeply involved in **full stack development**, **cybersecurity**, and **game development**.
 - 🚀 Developed and hosted projects like:
   - **Portfolio Website** – [Live Site](https://arunkbiju.github.io/My-Portfolio/)
-  - **College Fest Registration Platform**
-  - **Real-time Chat App, Task Manager, Vulnerability Scanner, and more**
+  - **Complete College Fest Exploration & Registration Platform** - [Live Site](https://celeste-25.github.io/KITS-Fest/)
+  - **Real-time Chat App, Task Manager, Vulnerability Scanner, and more** - Live links available on [Portfolio](https://arunkbiju.github.io/My-Portfolio/)
 - 🎮 Currently exploring Unity for 2D & 3D game development
 - 🔐 Skilled in ethical hacking using tools like Metasploit, Nmap, Burp Suite, Wireshark, and more
 - 📚 2000+ GitHub contributions in a year (till April 2025)
