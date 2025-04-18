@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/aa66e5b3-6a01-4afa-b4db-b29e24cb69d2)
+![Image](https://github.com/user-attachments/assets/cb57c42d-e579-4d50-ab4d-92cfc5bb1a0b)
 <h3 align="center">A passionate Full Stack Developer, Ethical Hacker, and Game Developer from India</h3>
 
 ### 🧠 About Me
@@ -49,4 +49,4 @@ All rights reserved © 2025 **Arun K Biju**.
 
 ---
 
-![Image](https://github.com/user-attachments/assets/cb57c42d-e579-4d50-ab4d-92cfc5bb1a0b)
+![Image](https://github.com/user-attachments/assets/aa66e5b3-6a01-4afa-b4db-b29e24cb69d2)
