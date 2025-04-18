@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/cb57c42d-e579-4d50-ab4d-92cfc5bb1a0b)
+![Image](https://github.com/user-attachments/assets/815f2da0-41f4-46b2-b709-ffe24d2b6d82)
 <h3 align="center">A passionate Full Stack Developer, Ethical Hacker, and Game Developer from India</h3>
 
 ### 🧠 About Me
