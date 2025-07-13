@@ -4,8 +4,13 @@
 
 ###  About Me
 
-- 💻 I'm a final-year Engineering student deeply involved in **full stack development**, **cybersecurity**, and **game development**.
-- 🚀 Developed and hosted projects like:
+- 💻 I'm a B.Tech Engineer deeply involved in **full stack development**, **cybersecurity**, and **game development**.
+- 🔝 Worked as a **MERN Stack Intern** at **Ziya Academy** where i built projects like:
+  - **E-Commerce App**
+  - **Job Tracker App**
+  - **Project Collaboration Tool**
+  -    
+- 🚀 Developed and hosted frontend only projects like:
   - **Portfolio Website** – [Live Site](https://arunkbiju.github.io/My-Portfolio/)
   - **Complete College Fest Exploration & Registration Platform** - [Live Site](https://celeste-25.github.io/KITS-Fest/)
   - **Real-time Chat App, Task Manager, Vulnerability Scanner, and more** - Live links available on [Portfolio](https://arunkbiju.github.io/My-Portfolio/)
