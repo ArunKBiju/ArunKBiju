@@ -9,11 +9,20 @@
   - **E-Commerce App**
   - **Job Tracker App**
   - **Project Collaboration Tool**
-  -    
+  - **Project Collaboration tool**
+  - **Blog App**
+  - **User management App**
+  - **To-do list app using redux**
+  - **Contact book**
+  - **Contact manager using redux**
+  - **Personal finance management system**
+  - **Leave management app**
+  
 - 🚀 Developed and hosted frontend only projects like:
   - **Portfolio Website** – [Live Site](https://arunkbiju.github.io/My-Portfolio/)
   - **Complete College Fest Exploration & Registration Platform** - [Live Site](https://celeste-25.github.io/KITS-Fest/)
   - **Real-time Chat App, Task Manager, Vulnerability Scanner, and more** - Live links available on [Portfolio](https://arunkbiju.github.io/My-Portfolio/)
+    
 - 🎮 Currently exploring Unity for 2D & 3D game development
 - 🔐 Skilled in ethical hacking using tools like Metasploit, Nmap, Burp Suite, Wireshark, and more
 - 📚 2000+ GitHub contributions in a year (till April 2025)
