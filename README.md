@@ -55,21 +55,11 @@
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkbiju&show_icons=true&locale=en&layout=compact" alt="arunkbiju" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkbiju&show_icons=true&locale=en" alt="arunkbiju" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkbiju&" alt="arunkbiju" /></p>
 
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![Arun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ArunKBiju)
-
-
----
 
 
 <picture>
