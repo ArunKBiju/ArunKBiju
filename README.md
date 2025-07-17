@@ -86,7 +86,7 @@
 
 This repository is **NOT open-source**.
 
-> ⚠️ You are **not allowed to copy, download, fork, or reuse** any part of the code or design from any of my repositories **without my permission**.
+> ⚠️ You are **not allowed to copy, download, fork, or reuse** any part of the code or design from any of my repositories **without my consent**.
 
 All rights reserved © 2025 **Arun K Biju**.
 
