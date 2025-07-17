@@ -17,14 +17,14 @@
   - **Job Tracker App**
   - **Project Collaboration Tool**
   
-- 🚀 Developed and hosted frontend only projects like:
+- Developed and hosted frontend only projects like:
   - **Portfolio Website** – [Live Site](https://arunkbiju.github.io/My-Portfolio/)
   - **Complete College Fest Exploration & Registration Platform** - [Live Site](https://celeste-25.github.io/KITS-Fest/)
   - **Real-time Chat App, Task Manager, Vulnerability Scanner, and more** - Live links available on [Portfolio](https://arunkbiju.github.io/My-Portfolio/)
     
-- 🎮 Currently exploring Unity for 2D & 3D game development
-- 🔐 Skilled in ethical hacking using tools like Metasploit, Nmap, Burp Suite, Wireshark, and more
-- 📚 2000+ GitHub contributions in a year (till April 2025)
+- Currently exploring Unity for 2D & 3D game development
+- Skilled in ethical hacking using tools like Metasploit, Nmap, Burp Suite, Wireshark, and more
+- 2000+ GitHub contributions in a year
 
 
 ---
@@ -195,11 +195,11 @@
 ---
 
 
-### ❌ License & Usage Notice
+### License & Usage Notice
 
 This repository is **NOT open-source**.
 
-> ⚠️ You are **not allowed to copy, fork, or reuse** any part of the code or design from any of my repositories **without my consent**.
+> You are **not allowed to copy, fork, or reuse** any part of the code or design from any of my repositories **without my consent**.
 
 All rights reserved © 2025 **Arun K Biju**.
 
