@@ -1,6 +1,7 @@
-![Image](https://github.com/user-attachments/assets/815f2da0-41f4-46b2-b709-ffe24d2b6d82)
 
-<img src="https://github.com/user-attachments/assets/de9bc73c-b924-4e40-871a-80f8f3faad05" width="810" height="120"/>
+<img src="https://github.com/user-attachments/assets/815f2da0-41f4-46b2-b709-ffe24d2b6d82" width="1000"/>
+
+<img src="https://github.com/user-attachments/assets/de9bc73c-b924-4e40-871a-80f8f3faad05" width="1000"/>
 
 ### About Me
 
@@ -193,4 +194,4 @@ All rights reserved © 2025 **Arun K Biju**.
 
 ---
 
-![Image](https://github.com/user-attachments/assets/0a631017-2069-4cd8-aa35-f5f1dd052066)
+<img src="https://github.com/user-attachments/assets/0a631017-2069-4cd8-aa35-f5f1dd052066" width="1000"/>
