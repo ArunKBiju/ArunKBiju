@@ -2,19 +2,18 @@
 
 <img src="https://github.com/user-attachments/assets/de9bc73c-b924-4e40-871a-80f8f3faad05" width="810" height="120"/>
 
-###  About Me
+### About Me
 
-- 💻 I'm a B.Tech Engineer deeply involved in **full stack development**, **cybersecurity**, and **game development**.
-- Worked as a MERN Stack Intern at Ziya Academy. Built real-world projects like a Job Tracker, E-Commerce Platform, Project Collaboration Tool, and Personal Finance Manager.
-- Developed and hosted frontend only projects like:
-  - **Portfolio Website** – [Live Site](https://arunkbiju.github.io/My-Portfolio/)
-  - **Complete College Fest Exploration & Registration Platform** - [Live Site](https://celeste-25.github.io/KITS-Fest/)
-  - **Real-time Chat App, Task Manager, Vulnerability Scanner, and more** - Live links available on [Portfolio](https://arunkbiju.github.io/My-Portfolio/)
-    
-- Currently exploring Unity for 2D & 3D game development
-- Skilled in ethical hacking using tools like Metasploit, Nmap, Burp Suite, Wireshark, and more
-- 2000+ GitHub contributions in a year
+- I'm a B.Tech Computer Science graduate passionate about full stack web development, with hands-on experience in building scalable MERN stack applications.
 
+- Completed a MERN Stack internship at Ziya Academy, delivering real-world projects like a Job Tracker, E-Commerce Platform, Project Collaboration Tool, and Personal Finance Manager.
+
+- Built and hosted several frontend-focused projects:
+  - Built a full-fledged college fest portal used by 1000+ students and faculty for exploring events and managing registrations – [Live Link](https://celeste-25.github.io/KITS-Fest/)
+  - Mahindra XUV700 Showcase Website featuring interactive animations, image slider, and scroll-triggered video playback – [Live Link](https://arunkbiju.github.io/XUV700_Car_Website)
+  - Real-time Chat App, Task Manager, Vulnerability Scanner, and more — available on my Portfolio - [Live Link](https://arunkbiju.github.io/My-Portfolio/)
+
+- Also exploring Unity for game development and experienced with ethical hacking tools like Metasploit and Burp Suite.
 
 ---
 
