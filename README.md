@@ -5,18 +5,7 @@
 ###  About Me
 
 - 💻 I'm a B.Tech Engineer deeply involved in **full stack development**, **cybersecurity**, and **game development**.
-- 🔝 Worked as a **MERN Stack Intern** at **Ziya Academy** where i built projects like:
-  - **Blog App**
-  - **User management App**
-  - **To-do list app using redux**
-  - **Contact book**
-  - **Contact manager using redux**
-  - **Personal finance management system**
-  - **Leave management app**
-  - **E-Commerce App**
-  - **Job Tracker App**
-  - **Project Collaboration Tool**
-  
+- Worked as a MERN Stack Intern at Ziya Academy. Built real-world projects like a Job Tracker, E-Commerce Platform, Project Collaboration Tool, and Personal Finance Manager.
 - Developed and hosted frontend only projects like:
   - **Portfolio Website** – [Live Site](https://arunkbiju.github.io/My-Portfolio/)
   - **Complete College Fest Exploration & Registration Platform** - [Live Site](https://celeste-25.github.io/KITS-Fest/)
