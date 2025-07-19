@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/815f2da0-41f4-46b2-b709-ffe24d2b6d82)
 
-<img src="https://github.com/user-attachments/assets/de9bc73c-b924-4e40-871a-80f8f3faad05" width="828" height="123"/>
+<img src="https://github.com/user-attachments/assets/de9bc73c-b924-4e40-871a-80f8f3faad05" width="810" height="120"/>
 
 ###  About Me
 
