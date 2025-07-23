@@ -34,6 +34,13 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arunkbijuofficial@gmail.com&su=Let's%20Chat&body=Hi,%20I%20would%20love%20to%20connect%20with%20you.%20Looking%20forward%20to%20your%20response." target="blank"><img align="center" src="https://github.com/user-attachments/assets/1e88331d-3abf-4fee-9acf-22f68a949c98" alt="arun-k-biju" height="30" width="40" /></a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5nn4hanyf2vssyt4vwuhpw44m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=47e141&bar_color_cover=false" />
+  </a>
+</p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -160,8 +167,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
-
-
 
 
 ---
