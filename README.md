@@ -35,12 +35,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5nn4hanyf2vssyt4vwuhpw44m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=47e141&bar_color_cover=false" />
-  </a>
-</p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -177,6 +171,20 @@
 
 ---
 
+
+## 🎶 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a5nn4hanyf2vssyt4vwuhpw44m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=47e141&bar_color_cover=false" />
+  </a>
+</p>
+
+🎧 If nothing’s showing, I’m probably deep in code. Or I hit pause. 😅
+
+
+
+---
 
 
 <picture>
